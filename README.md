@@ -1,11 +1,11 @@
-$ ./printlyra.sh
- welcome to my profile! im printlyra.
- i know C# .net framework.
- projects:
- processtoys || WIN-ONLY
- lyraOS (concept)
- i use Windows and i have a ginkgo.
- I know portuguese (brazilian) and english.
+$ ./printlyra.sh<br>
+ welcome to my profile! im printlyra.<br>
+ i know C# .net framework.<br>
+ projects:<br>
+ processtoys || WIN-ONLY<br>
+ lyraOS (concept)<br>
+ i use Windows and i have a ginkgo.<br>
+ I know portuguese (brazilian) and english.<br>
  Im from Brazil.
 
 <!---
